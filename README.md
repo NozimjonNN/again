@@ -9,5 +9,6 @@ team:
 - Farruh
 - Ruxsora
 - Diyorbek
+
 teacher: Umarov Ahmad
--- WORKED WITH REACTJS --
+WORKED WITH REACTJS
