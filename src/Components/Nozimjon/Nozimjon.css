@@ -1,0 +1,24 @@
+li {
+    list-style: none;
+}
+ul {
+    display: flex;
+    gap: 20px;
+}
+.a {
+    transition: 0.5s;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+}
+.a:hover {
+    color: #FDA500;
+    opacity: 1;
+}
+nav {
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
